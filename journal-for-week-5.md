@@ -25,19 +25,19 @@ I first went through the excercises by level of ease as mentioned in the Week 5 
 
 For the basic stats in R portion, I had successfully completed the excercises with some experimentation along the way. Due to having coded before, it was only a matter of learning the proper syntax of R and learning about which variables I needed to use where. 
 
-![images-week-5](images-week-5/Michelsberg%20type%204%20bottles.png)
+![images3](images-week-5/Michelsberg%20type%204%20bottles.PNG)
 *A bar chart representing type 4 bottles counts from the Michelsberg database.*
 
 <br>
 The only real difficulty I had was that I was unable to find any associations using the Chi squared method, though I now understand how it works.
 
-![images-week-5](images-week-5/Chi-squared%20test.png)
+![images4](images-week-5/Chi-squared%20test.PNG)
 
 
 As per the final excercise in R, I experimented with the Graveyard Project database and created some rather dense graphs.
 
-![images-week-5](images-week-5/graves_bar.png)
-![images-week-5](images-week-5/graves_circ.png)
+![images1](images-week-5/graves_bar.PNG)
+![images2](images-week-5/graves_circ.PNG)
 *I suppose one problem with having a large amount of data is that it is rather difficult to represent visually...*
 
 <br>
